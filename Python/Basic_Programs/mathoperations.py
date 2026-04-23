@@ -1,5 +1,5 @@
-from MyPack.Basicshapes import areaofsquare, areaofrect, perimeterofsquare
-from MyPack.circle import areaofcircle, perimeter
+from Python.MyPack.Basicshapes import areaofsquare, areaofrect, perimeterofsquare
+from Python.MyPack.circle import areaofcircle, perimeter
 
 
 

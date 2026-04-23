@@ -5,24 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f263d86-991b-43da-a1ef-02a2a0479dcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic_Programs/Moduleeg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Programs/foriterable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Programs/functionsex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Programs/mathoperations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1 Assignment/Qestion1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1 Assignment/question2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPack/Basicshapes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPack/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPack/circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/Forrange.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Programs/Forrange.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/Whilelooping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Programs/Whilelooping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/calculation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Programs/calculation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/firstprogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Programs/firstprogram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/ifstatement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Programs/ifstatement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/printstatement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Programs/printstatement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/str1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Programs/str1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/str1ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Programs/str1ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Programs/Forrange.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Basic_Programs/Forrange.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Programs/Moduleeg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Basic_Programs/Moduleeg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Programs/Whilelooping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Basic_Programs/Whilelooping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Programs/calculation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Basic_Programs/calculation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Programs/firstprogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Basic_Programs/firstprogram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Programs/foriterable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Basic_Programs/foriterable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Programs/functionsex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Basic_Programs/functionsex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Programs/ifstatement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Basic_Programs/ifstatement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Programs/mathoperations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Basic_Programs/mathoperations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Programs/printstatement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Basic_Programs/printstatement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Programs/str1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Basic_Programs/str1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Programs/str1ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Basic_Programs/str1ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1 Assignment/Qestion1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Day1 Assignment/Qestion1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1 Assignment/question2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Day1 Assignment/question2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPack/Basicshapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/MyPack/Basicshapes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPack/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/MyPack/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPack/circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/MyPack/circle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="3CfevW44i2iE2Q83kINm6VUuzWv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -97,12 +100,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Basic_Programs/ifstatement.py</url>
+          <url>file://$PROJECT_DIR$/Python/Basic_Programs/ifstatement.py</url>
           <line>45</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Basic_Programs/Forrange.py</url>
+          <url>file://$PROJECT_DIR$/Python/Basic_Programs/Forrange.py</url>
           <line>3</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
