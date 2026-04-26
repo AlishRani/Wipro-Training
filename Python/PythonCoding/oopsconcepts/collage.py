@@ -1,12 +1,11 @@
-class collage:
-    def __init__(self, ccode, cname, ccity):
-        self.collcode = ccode
-        self.collname = cname
-        self.collcity = ccity
+class Collage:
+    def collage_info(selfself):
+        print("This is a collage")
+class Student(Collage):
+    def student_info(self):
+        print("This is a student")
 
-    def welcome_message(self):
-        print('Hello there !!!')
+obj=Student()
+obj.collage_info()
+obj.student_info()
 
-    def display_collage_details(self):
-        print('collage code : {} \n  collage name : {} \n city{} ', self.collcode,self.collname,
-              self.collcity)
