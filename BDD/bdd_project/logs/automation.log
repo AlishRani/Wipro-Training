@@ -1,0 +1,35 @@
+2026-05-10 18:56:08,170 - INFO - Timeout fetched : 10
+2026-05-10 18:56:08,178 - INFO - ========================================
+2026-05-10 18:56:08,178 - INFO - STARTING SCENARIO : Successful Signup
+2026-05-10 18:56:08,178 - INFO - Browser fetched : edge
+2026-05-10 18:56:08,179 - INFO - Base URL fetched : https://www.demoblaze.com/
+2026-05-10 18:56:08,179 - INFO - Implicit wait fetched : 5
+2026-05-10 18:56:08,179 - INFO - Headless mode : False
+2026-05-10 18:56:08,179 - INFO - Launching Edge Browser
+2026-05-10 18:56:12,441 - INFO - Browser Opened & Maximized Successfully
+2026-05-10 18:56:12,445 - INFO - Demoblaze URL loaded
+2026-05-10 18:56:12,449 - INFO - Step : Click signup menu
+2026-05-10 18:56:12,450 - INFO - Clicking signup Menu
+2026-05-10 18:56:12,450 - INFO - Waiting for element clickable : ('link text', 'Sign up')
+2026-05-10 18:56:12,561 - INFO - Element clickable successfully : ('link text', 'Sign up')
+2026-05-10 18:56:12,646 - INFO - Step : Enter Username : ugbuhbhbhebwhbfjhwbefjhwefwejhfwe
+2026-05-10 18:56:12,646 - INFO - Entering Username : ugbuhbhbhebwhbfjhwbefjhwefwejhfwe
+2026-05-10 18:56:12,646 - INFO - Waiting for element visibility : ('id', 'sign-username')
+2026-05-10 18:56:13,202 - INFO - Element visible successfully : ('id', 'sign-username')
+2026-05-10 18:56:13,406 - INFO - Step : Enter Password : password123
+2026-05-10 18:56:13,406 - INFO - Entering Password
+2026-05-10 18:56:13,406 - INFO - Waiting for element visibility : ('id', 'sign-password')
+2026-05-10 18:56:13,461 - INFO - Element visible successfully : ('id', 'sign-password')
+2026-05-10 18:56:13,595 - INFO - Step : Click Signup button
+2026-05-10 18:56:13,595 - INFO - Clicking Signup Button
+2026-05-10 18:56:13,595 - INFO - Waiting for element clickable : ('xpath', "//button[text()='Sign up']")
+2026-05-10 18:56:13,635 - INFO - Element clickable successfully : ('xpath', "//button[text()='Sign up']")
+2026-05-10 18:56:13,699 - INFO - Step : Verify Successful Login
+2026-05-10 18:56:13,700 - INFO - Verifying Signup Alert
+2026-05-10 18:56:13,700 - INFO - Waiting for alert
+2026-05-10 18:56:14,708 - INFO - Alert appeared successfully
+2026-05-10 18:56:14,709 - INFO - Alert Message : This user already exist.
+2026-05-10 18:56:14,754 - INFO - Scenario Status : Status.error
+2026-05-10 18:56:14,755 - INFO - SCENARIO PASSED : Successful Signup
+2026-05-10 18:56:17,306 - INFO - Browser Closed Successfully
+2026-05-10 18:56:17,306 - INFO - ========================================

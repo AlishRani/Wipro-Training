@@ -40,7 +40,7 @@ driver = webdriver.Edge()
 # img_link.click()
 # time.sleep(5)
 
-# partial link text --
+# partial linktext --
 # img_link = driver.find_element(By.PARTIAL_LINK_TEXT,"ma")
 # img_link.click()
 # time.sleep(5)

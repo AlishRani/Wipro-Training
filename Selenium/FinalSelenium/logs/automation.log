@@ -1,0 +1,118 @@
+2026-05-10 18:28:50 - INFO - root - ==================================================
+2026-05-10 18:28:50 - INFO - root - Starting test!!
+2026-05-10 18:28:50 - INFO - root - Reading 
+2026-05-10 18:28:52 - INFO - root - Opened browser: edge
+2026-05-10 18:28:52 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-10 18:28:52 - INFO - root - Trying to login with standard_user, secret_sauce
+2026-05-10 18:28:52 - INFO - root - Typing the element : ('id', 'user-name')
+2026-05-10 18:28:52 - INFO - root - Locating the element : ('id', 'user-name')
+2026-05-10 18:28:53 - INFO - root - Typing the element : ('id', 'password')
+2026-05-10 18:28:53 - INFO - root - Locating the element : ('id', 'password')
+2026-05-10 18:28:53 - INFO - root -  Clicking in the element : ('id', 'login-button')
+2026-05-10 18:28:53 - INFO - root - Locating the element : ('id', 'login-button')
+2026-05-10 18:28:54 - INFO - root - Getting product name
+2026-05-10 18:28:57 - INFO - root - Closing browser: edge
+2026-05-10 18:28:57 - INFO - root - ENDING TEST
+2026-05-10 18:28:57 - INFO - root - ================================================
+2026-05-10 18:28:57 - INFO - root - ==================================================
+2026-05-10 18:28:57 - INFO - root - Starting test!!
+2026-05-10 18:28:57 - INFO - root - Reading 
+2026-05-10 18:28:59 - INFO - root - Opened browser: edge
+2026-05-10 18:28:59 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-10 18:28:59 - INFO - root - Trying to login with standard_user, secret_sauce
+2026-05-10 18:28:59 - INFO - root - Typing the element : ('id', 'user-name')
+2026-05-10 18:28:59 - INFO - root - Locating the element : ('id', 'user-name')
+2026-05-10 18:29:00 - INFO - root - Typing the element : ('id', 'password')
+2026-05-10 18:29:00 - INFO - root - Locating the element : ('id', 'password')
+2026-05-10 18:29:00 - INFO - root -  Clicking in the element : ('id', 'login-button')
+2026-05-10 18:29:00 - INFO - root - Locating the element : ('id', 'login-button')
+2026-05-10 18:29:00 - INFO - root - Getting product name
+2026-05-10 18:29:03 - INFO - root - Closing browser: edge
+2026-05-10 18:29:03 - INFO - root - ENDING TEST
+2026-05-10 18:29:03 - INFO - root - ================================================
+2026-05-10 18:29:03 - INFO - root - ==================================================
+2026-05-10 18:29:03 - INFO - root - Starting test!!
+2026-05-10 18:29:03 - INFO - root - Reading 
+2026-05-10 18:29:05 - INFO - root - Opened browser: edge
+2026-05-10 18:29:06 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-10 18:29:06 - INFO - root - Trying to login with standard_user, secret_sauce
+2026-05-10 18:29:06 - INFO - root - Typing the element : ('id', 'user-name')
+2026-05-10 18:29:06 - INFO - root - Locating the element : ('id', 'user-name')
+2026-05-10 18:29:06 - INFO - root - Typing the element : ('id', 'password')
+2026-05-10 18:29:06 - INFO - root - Locating the element : ('id', 'password')
+2026-05-10 18:29:06 - INFO - root -  Clicking in the element : ('id', 'login-button')
+2026-05-10 18:29:06 - INFO - root - Locating the element : ('id', 'login-button')
+2026-05-10 18:29:07 - INFO - root - Clicking on menu button and logout
+2026-05-10 18:29:07 - INFO - root -  Clicking in the element : ('id', 'react-burger-menu-btn')
+2026-05-10 18:29:07 - INFO - root - Locating the element : ('id', 'react-burger-menu-btn')
+2026-05-10 18:29:07 - INFO - root -  Clicking in the element : ('id', 'logout_sidebar_link')
+2026-05-10 18:29:07 - INFO - root - Locating the element : ('id', 'logout_sidebar_link')
+2026-05-10 18:29:10 - INFO - root - Closing browser: edge
+2026-05-10 18:29:10 - INFO - root - ENDING TEST
+2026-05-10 18:29:10 - INFO - root - ================================================
+2026-05-10 18:29:10 - INFO - root - ==================================================
+2026-05-10 18:29:10 - INFO - root - Starting test!!
+2026-05-10 18:29:10 - INFO - root - Reading 
+2026-05-10 18:29:12 - INFO - root - Opened browser: edge
+2026-05-10 18:29:12 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-10 18:29:12 - INFO - root - Login page opened
+2026-05-10 18:29:12 - INFO - root - Trying to login with data - standard_user, secret_sauce
+2026-05-10 18:29:12 - INFO - root - Trying to login with standard_user, secret_sauce
+2026-05-10 18:29:12 - INFO - root - Typing the element : ('id', 'user-name')
+2026-05-10 18:29:12 - INFO - root - Locating the element : ('id', 'user-name')
+2026-05-10 18:29:13 - INFO - root - Typing the element : ('id', 'password')
+2026-05-10 18:29:13 - INFO - root - Locating the element : ('id', 'password')
+2026-05-10 18:29:13 - INFO - root -  Clicking in the element : ('id', 'login-button')
+2026-05-10 18:29:13 - INFO - root - Locating the element : ('id', 'login-button')
+2026-05-10 18:29:13 - INFO - root - Checking logged in status
+2026-05-10 18:29:13 - INFO - root - Login Successful - Inventory page opened 
+2026-05-10 18:29:13 - INFO - root - Screenshot saved at: reports/screenshots/login_test_20260510_182913.png
+2026-05-10 18:29:16 - INFO - root - Closing browser: edge
+2026-05-10 18:29:16 - INFO - root - ENDING TEST
+2026-05-10 18:29:16 - INFO - root - ================================================
+2026-05-10 18:29:16 - INFO - root - ==================================================
+2026-05-10 18:29:16 - INFO - root - Starting test!!
+2026-05-10 18:29:16 - INFO - root - Reading 
+2026-05-10 18:29:18 - INFO - root - Opened browser: edge
+2026-05-10 18:29:19 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-10 18:29:19 - INFO - root - Login page opened
+2026-05-10 18:29:19 - INFO - root - Trying to login with data - locked_out_user, secret_sauce
+2026-05-10 18:29:19 - INFO - root - Trying to login with locked_out_user, secret_sauce
+2026-05-10 18:29:19 - INFO - root - Typing the element : ('id', 'user-name')
+2026-05-10 18:29:19 - INFO - root - Locating the element : ('id', 'user-name')
+2026-05-10 18:29:19 - INFO - root - Typing the element : ('id', 'password')
+2026-05-10 18:29:19 - INFO - root - Locating the element : ('id', 'password')
+2026-05-10 18:29:19 - INFO - root -  Clicking in the element : ('id', 'login-button')
+2026-05-10 18:29:19 - INFO - root - Locating the element : ('id', 'login-button')
+2026-05-10 18:29:19 - INFO - root - Checking logged in status
+2026-05-10 18:29:19 - INFO - root - Trying to display error message
+2026-05-10 18:29:19 - INFO - root - Getting the element : ('tag name', 'h3')
+2026-05-10 18:29:19 - INFO - root - Locating the element : ('tag name', 'h3')
+2026-05-10 18:29:20 - ERROR - root - Login failed -  Inventory page not opened
+2026-05-10 18:29:20 - INFO - root - Screenshot saved at: reports/screenshots/login_test_20260510_182920.png
+2026-05-10 18:29:22 - INFO - root - Closing browser: edge
+2026-05-10 18:29:22 - INFO - root - ENDING TEST
+2026-05-10 18:29:22 - INFO - root - ================================================
+2026-05-10 18:29:22 - INFO - root - ==================================================
+2026-05-10 18:29:22 - INFO - root - Starting test!!
+2026-05-10 18:29:22 - INFO - root - Reading 
+2026-05-10 18:29:24 - INFO - root - Opened browser: edge
+2026-05-10 18:29:25 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-10 18:29:25 - INFO - root - Login page opened
+2026-05-10 18:29:25 - INFO - root - Trying to login with data - wrong_user, wrong_pass
+2026-05-10 18:29:25 - INFO - root - Trying to login with wrong_user, wrong_pass
+2026-05-10 18:29:25 - INFO - root - Typing the element : ('id', 'user-name')
+2026-05-10 18:29:25 - INFO - root - Locating the element : ('id', 'user-name')
+2026-05-10 18:29:25 - INFO - root - Typing the element : ('id', 'password')
+2026-05-10 18:29:25 - INFO - root - Locating the element : ('id', 'password')
+2026-05-10 18:29:25 - INFO - root -  Clicking in the element : ('id', 'login-button')
+2026-05-10 18:29:25 - INFO - root - Locating the element : ('id', 'login-button')
+2026-05-10 18:29:26 - INFO - root - Checking logged in status
+2026-05-10 18:29:26 - INFO - root - Trying to display error message
+2026-05-10 18:29:26 - INFO - root - Getting the element : ('tag name', 'h3')
+2026-05-10 18:29:26 - INFO - root - Locating the element : ('tag name', 'h3')
+2026-05-10 18:29:26 - ERROR - root - Login failed -  Inventory page not opened
+2026-05-10 18:29:26 - INFO - root - Screenshot saved at: reports/screenshots/login_test_20260510_182926.png
+2026-05-10 18:29:28 - INFO - root - Closing browser: edge
+2026-05-10 18:29:28 - INFO - root - ENDING TEST
+2026-05-10 18:29:28 - INFO - root - ================================================
